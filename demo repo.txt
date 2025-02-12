@@ -3,3 +3,5 @@ This is Naveen interview introduction
 Self-Introduction:
 
 "Hello, my name is Naveen Kumar Pasala. I have three years of experience in AWS and DevOps. My expertise includes cloud infrastructure management, automation, CI/CD pipeline implementation, and container orchestration. I have hands-on experience with AWS services like EC2, S3, IAM, Lambda, and CloudFormation. Additionally, I am proficient in DevOps tools such as Terraform, Ansible, Docker, Kubernetes, and Jenkins. I am passionate about automating processes to improve efficiency and scalability. I am always eager to learn new technologies and enhance my skills to optimize cloud and DevOps workflows."
+
+This is enough for the introduction
